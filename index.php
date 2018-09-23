@@ -1,3 +1,4 @@
 <?php 
-  Hello, world!
+echo Hello, world!;
+echo What can I do?;
 ?>
